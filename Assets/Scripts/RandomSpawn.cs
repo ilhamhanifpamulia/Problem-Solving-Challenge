@@ -22,4 +22,5 @@ public class RandomSpawn : MonoBehaviour
 			ToSpawn = false;
 		}
 	}
+
 }
